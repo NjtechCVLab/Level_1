@@ -2,8 +2,8 @@
 
 ## 学习资料推荐
 
-+ [动手学深度学习（PyTorch 版）](http://tangshusen.me/Dive-into-DL-PyTorch/#/)
 + [2017CS231n 斯坦福李飞飞计算机视觉](https://www.bilibili.com/video/BV1Yt41157Lb?from=search&seid=6857653119748371893)
++ [动手学深度学习（PyTorch 版）](http://tangshusen.me/Dive-into-DL-PyTorch/#/)
 
 ## 小例子
 
