@@ -2,8 +2,9 @@
 
 ## 学习资料推荐
 
-+ [2017CS231n 斯坦福李飞飞计算机视觉](https://www.bilibili.com/video/BV1Yt41157Lb?from=search&seid=6857653119748371893)
++ [李宏毅机器学习 + 深度学习](https://www.bilibili.com/video/BV1Jp4y1s7hM?from=search&seid=6699333899117828500)
 + [动手学深度学习（PyTorch 版）](http://tangshusen.me/Dive-into-DL-PyTorch/#/)
++ [2017CS231n 斯坦福李飞飞计算机视觉](https://www.bilibili.com/video/BV1Yt41157Lb?from=search&seid=6857653119748371893)
 
 ## 小例子
 
