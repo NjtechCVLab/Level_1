@@ -22,3 +22,7 @@
 + [手写数字识别](https://github.com/NjtechCVLab/Level_1/blob/main/DL-Demos/05%20%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb)
 
 ## 李宏毅教程-部分例程详释
+
++ [Regression](https://github.com/NjtechCVLab/Level_1/blob/main/Hung-yi%20Lee/Regression/Regression.ipynb)
++ [Classification](https://github.com/779399462/Level_1/blob/main/Hung-yi%20Lee/Classification/classification.ipynb)
++ [RNN](https://github.com/NjtechCVLab/Level_1/blob/main/Hung-yi%20Lee/RNN/RNN.ipynb)
