@@ -21,7 +21,7 @@
 + [常见优化器的 numpy 实现](https://github.com/NjtechCVLab/Level_1/blob/main/DL-Demos/04%20%E5%B8%B8%E8%A7%81%E4%BC%98%E5%8C%96%E5%99%A8%E7%9A%84%20numpy%20%E5%AE%9E%E7%8E%B0.ipynb)
 + [手写数字识别](https://github.com/NjtechCVLab/Level_1/blob/main/DL-Demos/05%20%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb)
 
-## 李宏毅教程-部分例程详释
+## 李宏毅教程-部分例程详释（最近更新）
 
 + [Regression](https://github.com/NjtechCVLab/Level_1/blob/main/Hung-yi%20Lee/Regression/Regression.ipynb)
 + [Classification](https://github.com/779399462/Level_1/blob/main/Hung-yi%20Lee/Classification/classification.ipynb)
